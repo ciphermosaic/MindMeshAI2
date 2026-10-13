@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+**/.env
+token.json
+*.db
+
+node_modules/
+dist/
+
+#secrets
+.env.*
+!.env.example
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
